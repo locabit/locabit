@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm Luca Leandri, i’m currently learning programming because I would like to be a frontend developer.
 <!--
 **locabit/locabit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
