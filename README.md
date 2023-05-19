@@ -3,7 +3,7 @@
 I'm Luca Leandri, i’m currently learning programming because I would like to be a frontend developer.
 
 ### Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=locabit"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=locabit" />
 
 ### Fields of application
 
