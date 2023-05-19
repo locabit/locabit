@@ -1,6 +1,12 @@
 ### Hi there 👋
 
 I'm Luca Leandri, i’m currently learning programming because I would like to be a frontend developer.
+
+### Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=locabit"/>
+
+
+
 <!--
 **locabit/locabit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
