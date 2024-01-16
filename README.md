@@ -4,7 +4,7 @@
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=locabit&label=Profile%20views&color=0e75b6&style=flat" alt="locabit" /> </p>
 
-### Fields of application
+### Skills
 
 <div>
 <img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
