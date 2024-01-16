@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Luca Leandri, i’m currently learning programming because I would like to be a frontend developer.
+I'm Luca Leandri, frontend web developer.
 
 ### Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=locabit"/>
@@ -9,6 +9,7 @@ I'm Luca Leandri, i’m currently learning programming because I would like to b
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/typescriptlang/typescriptlang-icon.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
