@@ -7,9 +7,11 @@ I'm Luca Leandri, frontend web developer.
 
 ### Fields of application
 
+<div>
 <img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+</div>
 <br />
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
