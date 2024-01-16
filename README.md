@@ -11,9 +11,6 @@ ________________________________________________________________________________
 <img width="5%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
 <img width="5%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
 <img width="5%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-</div>
-</br>
-<div>
 <img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
 <img width="5%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg">
 <img width="5%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
