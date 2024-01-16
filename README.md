@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Luca Leandri
-</hr>
+___________________________________________________________________________________________________________________________________________________________________
 
 <h3>🌍 I'm a frontend web developer based in Italy.</h3>
 </br>
@@ -24,6 +24,13 @@
 ### Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=locabit"/>
 
+### Socials
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/luca-leandri/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 
 
