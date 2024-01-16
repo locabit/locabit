@@ -8,9 +8,9 @@ I'm Luca Leandri, frontend web developer.
 ### Fields of application
 
 <div>
-<img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+<img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
 </div>
 <br />
 <br />
