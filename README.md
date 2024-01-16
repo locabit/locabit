@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hi there 👋, I'm Luca Leandri
+</hr>
 
-<h3>🌍 I'm Luca Leandri, frontend web developer based in Italy.</h3>
+<h3>🌍 I'm a frontend web developer based in Italy.</h3>
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=locabit&label=Profile%20views&color=0e75b6&style=flat" alt="locabit" /> </p>
 
