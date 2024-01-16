@@ -8,8 +8,8 @@ I'm Luca Leandri, frontend web developer.
 ### Fields of application
 
 <img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
+<img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg">
+<img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
 <br />
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
