@@ -6,7 +6,7 @@ I'm Luca Leandri, frontend web developer based in Italy.
 ### Fields of application
 
 <div>
-<img width="5%" src="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg">
 <img width="5%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
 <img width="5%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
 <img width="5%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
