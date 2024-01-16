@@ -9,7 +9,7 @@ I'm Luca Leandri, frontend web developer.
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
 <br />
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
