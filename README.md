@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-I'm Luca Leandri, frontend web developer.
-
-### Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=locabit"/>
+I'm Luca Leandri, frontend web developer based in Italy.
 
 ### Fields of application
 
@@ -16,6 +13,11 @@ I'm Luca Leandri, frontend web developer.
 <img width="5%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg">
 <img width="5%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
 </div>
+
+### Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=locabit"/>
+
+
 
 
 <!--
